@@ -1,0 +1,25 @@
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.Cache
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Desktop\C# Projects\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+C:\Users\Dell XPS\Dropbox\[C# Winforms] Create your own Video Player (DirectX)\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe.config
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.exe
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.pdb
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.exe
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\bin\Debug\MyVideoPlayer.pdb
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.dll
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\bin\Debug\Microsoft.DirectX.Direct3D.xml
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csprojResolveAssemblyReference.cache
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Form1.resources
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.Properties.Resources.resources
+\\Mac\Home\Downloads\MyVideoPlayer\MyVideoPlayer\obj\Debug\MyVideoPlayer.csproj.GenerateResource.Cache
